@@ -14,12 +14,13 @@ This portfolio showcases my projects, skills, and experiences in programming, ap
 - **Home Page**: Displays my name, image, and an about section.
 - **Projects**: Showcasing key projects in app development and game design.
 - **Skills and Languages**: Rotating logos of programming languages and tools.
+- 
+## Contact
+- **Email** : [divyadharshini19cse@gmail.com](mail to:divyadharshini19cse@gmail.com)
 
 ## Installation
 To view this portfolio locally:
  Clone this repository:
    ```bash
    git clone https://github.com/divyadharsha19/Divya-s_portfolio
-## Contact
-- **Email**: [divyadharshini19cse@gmail.com](mail to:divyadharshini19cse@gmail.com)
 
