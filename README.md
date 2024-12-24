@@ -7,8 +7,8 @@
 This portfolio showcases my projects, skills, and experiences in programming, app development, and web design. It serves as a space for recruiters, clients, and fellow students to explore my work, learn about my skills, and contact me directly.
 
 ## Technologies Used
-- **Frontend**: HTML, CSS, JavaScript, React
-- **Other Tools**: SQL, Excel, Canva
+- **Frontend**: HTML, CSS, JavaScript
+
 
 ## Features
 - **Home Page**: Displays my name, image, and an about section.
